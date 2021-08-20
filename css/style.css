@@ -2,6 +2,9 @@
     --primary-color: #000;
     --secondary-color: #fff;
   }
+body{
+    overflow: hidden;
+}
 body.light{
     background: url(/assets/images/bg.jpg) no-repeat center center fixed; 
     background-size: cover;
