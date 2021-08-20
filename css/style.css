@@ -15,7 +15,7 @@ body.dark{
 .wrapper {
     display: flex;
     justify-content: center;
-    padding: 240px 0;
+    padding: 200px 0;
 }
 .clock {
     width: 500px;
