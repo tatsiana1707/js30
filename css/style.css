@@ -3,12 +3,12 @@
     --secondary-color: #fff;
   }
 body.light{
-    background: url(assets/images/bg.jpg) no-repeat center center fixed; 
+    background: url(/assets/images/bg.jpg) no-repeat center center fixed; 
     background-size: cover;
 
 }
 body.dark{
-    background: url(assets/images/bg-dark.jpg) no-repeat center center fixed; 
+    background: url(/assets/images/bg-dark.jpg) no-repeat center center fixed; 
     background-size: cover;
     
 }
